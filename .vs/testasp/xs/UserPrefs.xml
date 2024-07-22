@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{10966321-43B6-41D9-BC27-ACF78E82B271}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.testasp PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testasp/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="testasp/Controllers/WeatherForecastController.cs" Line="9" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testasp" expanded="True">
+            <Node name="testasp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
