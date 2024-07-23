@@ -1,3 +1,3 @@
 # ASP.NET Basic Authentication
 
-.NET 7.0 basic auth example
+.NET 6.0 basic auth example
