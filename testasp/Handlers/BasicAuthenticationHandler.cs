@@ -45,7 +45,7 @@ public class BasicAuthenticationHandler : AuthenticationHandler<AuthenticationSc
             }
         }
         Response.StatusCode = 401;
-        Response.Headers.Add("WWW-Authenticate", "Basic realm=\"test.chms.io\"");
+        Response.Headers.Add("WWW-Authenticate", "Basic realm=\"localhost\"");
         return await Task.FromResult(AuthenticateResult.Fail("Invalid Authorization Header"));
     }
 }
