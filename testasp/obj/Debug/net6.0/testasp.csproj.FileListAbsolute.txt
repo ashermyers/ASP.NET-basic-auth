@@ -5,9 +5,6 @@
 /Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/testasp.runtimeconfig.json
 /Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/testasp.dll
 /Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/testasp.pdb
-/Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/asher/Projects/testasp/testasp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/asher/Projects/testasp/testasp/obj/Debug/net6.0/testasp.csproj.AssemblyReference.cache
 /Users/asher/Projects/testasp/testasp/obj/Debug/net6.0/testasp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/asher/Projects/testasp/testasp/obj/Debug/net6.0/testasp.AssemblyInfoInputs.cache
